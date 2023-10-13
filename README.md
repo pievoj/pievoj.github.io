@@ -1,6 +1,6 @@
 ✨PIEVA✨
 
-Instrukcijos:
+<h1>Instrukcijos:</h1>
 
 1. Kaip matai šitoj saugykloj jau yra 3 failai su pavadinimais "1" "2" "3" juos gali redaguoti paspaudus šitą mygtuką 
 <img width="78" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/b58f409d-b1d7-44b7-afaf-c95c340d6090">
@@ -19,7 +19,7 @@ Tik taip jis susijungs su atitinkamu gyvūnu ir jis atsiras pievoje.
 
 6. Kadangi šita saugykla yra nemokama ir labiau skirta kodų rašymui negu teksto redagavimui, tau reiks naudot kelis paprastus kodo elementus, kuriais galėsi padaryt tarpus tarp pastraipų, paryškint tekstą, jį padidint ar pasukt kursyvu.
 
-Pagrindiniai elementai:
+<h1>Pagrindiniai elementai:</h1>
 
 1. <img height="50" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/cff886e1-2b79-422d-a3dd-ca6fa2a8df5c">
 
@@ -36,6 +36,7 @@ PVZ:
 Jei sugalvosi kad norėtum savo tekstui didesnio užrašo (ar pavadinimo) tekstą įterpk į šį elementą <br>
 <img width="170" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/73f3684c-dcd6-4e3a-8b6a-b8eab3e8cf8a">
 
+(neužmiršk elementas yra iš abiejų pusių norimo padidinti teksto ir dešinėje turi pasvirajį brukšnį <img width="30" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/1e465ae7-2e5b-44de-8f33-6d3121e1fdc8"> )
 
 
 
