@@ -33,7 +33,9 @@ PVZ:
 
 2. <img height="50" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/3c661b05-3f23-4df6-8e38-330a9d9dc4f6">
 
-Jei sugalvosi kad norėtum savo tekstui didesnio užrašo (ar pavadinimo) tekstą įterpk į šį elementą 
+Jei sugalvosi kad norėtum savo tekstui didesnio užrašo (ar pavadinimo) tekstą įterpk į šį elementą <br>
+<img width="170" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/73f3684c-dcd6-4e3a-8b6a-b8eab3e8cf8a">
+
 
 
 
