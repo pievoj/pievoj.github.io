@@ -29,7 +29,8 @@ tekste matysis jau tarpas tarp eilučių (taip pat kaip du kartus paspaudus ente
 PVZ:
 
 <img width="153" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/29ff0b5c-57a1-44f2-874f-66c64b2e1369">
- <img width="153" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/d44b5ffd-cb93-4f47-99c5-c289c4d77025">
+ <img width="153" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/7633083b-2f86-4961-b824-909f6a7d8b3e">
+
 
 
 
