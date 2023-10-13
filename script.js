@@ -41,20 +41,20 @@ function toggleText(containerId, githubRawURL) {
 // Add click event listeners for your elements
 sheep1.addEventListener('click', function() {
   audioElement.play();
-  toggleText('text-container-1', 'https://raw.githubusercontent.com/rutaviz/texttest/main/1');
+  toggleText('text-container-1', 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/1');
   sheep1.classList.toggle('z-index-4');
 });
 
 duck1.addEventListener('click', function() {
   audioElement.play();
-  toggleText('text-container-2', 'https://raw.githubusercontent.com/rutaviz/texttest/main/2');
+  toggleText('text-container-2', 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/2');
   duck1.classList.toggle('z-index-4');
 });
 
 // Add a function to handle the click event for cow1
 async function cow1ClickHandler() {
   audioElement.play();
-  const githubRawURL = 'https://raw.githubusercontent.com/rutaviz/texttest/main/3';
+  const githubRawURL = 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/3';
   const textContainerId = 'text-container-3';
 
   if (await githubURLExists(githubRawURL)) {
@@ -66,7 +66,7 @@ async function cow1ClickHandler() {
 
 // Use a self-invoking async function for the initial cow element visibility check
 (async () => {
-  const githubRawURLForCow = 'https://raw.githubusercontent.com/rutaviz/texttest/main/3';
+  const githubRawURLForCow = 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/3';
   if (!(await githubURLExists(githubRawURLForCow))) {
     cow1.style.display = 'none';
   }
