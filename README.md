@@ -9,7 +9,7 @@ Instrukcijos:
 2.Kai norėsi sukūrt naują tekstą gali tai padaryt paspaudus šitą + <img width="150" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/d08c02a8-e1c7-4cc2-83d6-12070f8be68d">
 
 3. SVARBU!
-Kiekvieną naują tekstą turi būtinai pavadinti skaičiumi šitame laukelyje: <img width="344" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/ad66a142-9481-4d52-ae0d-fd847879ec00">
+Kiekvieną naują tekstą turi būtinai pavadinti skaičiumi šitame laukelyje: <img width="200" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/ad66a142-9481-4d52-ae0d-fd847879ec00">
 
 Tik taip jis susijungs su atitinkamu gyvūnu ir jis atsiras pievoje.
 <br><br><br>
@@ -31,6 +31,9 @@ PVZ:
 <img width="153" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/29ff0b5c-57a1-44f2-874f-66c64b2e1369">
  <img width="200" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/7633083b-2f86-4961-b824-909f6a7d8b3e">
 
+2. <img width="60" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/3c661b05-3f23-4df6-8e38-330a9d9dc4f6">
+
+Jei sugalvosi kad norėtum savo tekstui didesnio užrašo (ar pavadinimo) tekstą įterpk į šį elementą 
 
 
 
