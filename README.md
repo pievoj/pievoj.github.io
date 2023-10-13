@@ -21,15 +21,15 @@ Tik taip jis susijungs su atitinkamu gyvūnu ir jis atsiras pievoje.
 
 Pagrindiniai elementai:
 
-1. <img width="27" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/cff886e1-2b79-422d-a3dd-ca6fa2a8df5c">
+1. <img width="40" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/cff886e1-2b79-422d-a3dd-ca6fa2a8df5c">
 
-Šitas elementas yra kaip "enter" mygtukas. Jei parašysi jį vieną kartą ir iškart po jo pradėsi rašyt kitą tekstą jis nusikels į kitą eilutę, jei parašysi jį 2 kartus <img width="27" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/b79bfe91-1760-48f8-a122-80a3676b2624"> <img width="27" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/acb9a0a7-4226-49b2-8fac-79c378a2bde4">
+Šitas elementas yra kaip "enter" mygtukas. Jei parašysi jį vieną kartą ir iškart po jo pradėsi rašyt kitą tekstą jis nusikels į kitą eilutę, jei parašysi jį 2 kartus <img width="40" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/b79bfe91-1760-48f8-a122-80a3676b2624"> <img width="40" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/acb9a0a7-4226-49b2-8fac-79c378a2bde4">
 tekste matysis jau tarpas tarp eilučių (taip pat kaip du kartus paspaudus enter)
 
 PVZ:
 
 <img width="153" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/29ff0b5c-57a1-44f2-874f-66c64b2e1369">
- <img width="153" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/7633083b-2f86-4961-b824-909f6a7d8b3e">
+ <img width="200" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/7633083b-2f86-4961-b824-909f6a7d8b3e">
 
 
 
