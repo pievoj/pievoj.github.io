@@ -12,7 +12,7 @@ Instrukcijos:
 Kiekvieną naują tekstą turi būtinai pavadinti skaičiumi šitame laukelyje: <img width="344" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/ad66a142-9481-4d52-ae0d-fd847879ec00">
 
 Tik taip jis susijungs su atitinkamu gyvūnu ir jis atsiras pievoje.
-
+<br>
 4. Kai parašysi tekstą ar jį baigsi redaguoti turėsi paspausti mygtuką "Commit changes" <img width="249" alt="image" src="https://github.com/rutaviz/texttest/assets/82490449/409f4cca-3fde-4564-825c-e7bbd24514f2">
 
 5. Tekstas neatsinaujina staigiai, gali prireikt minutės ar kelių kad jis atsirastų pievoje ar pasiupdatintų jei redaguosi kažkokius jau egzistuojančius tekstus.
