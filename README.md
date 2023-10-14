@@ -32,13 +32,12 @@ PVZ:
 <img width="153" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/29ff0b5c-57a1-44f2-874f-66c64b2e1369">
  <img width="200" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/7633083b-2f86-4961-b824-909f6a7d8b3e">
 <br>
-2. <img height="50" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/3c661b05-3f23-4df6-8e38-330a9d9dc4f6">
 
-Jei sugalvosi kad norėtum savo tekstui didesnio užrašo (ar pavadinimo) tekstą įterpk į šį elementą <br>
-<img height="100" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/73f3684c-dcd6-4e3a-8b6a-b8eab3e8cf8a"> <img height="100" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/49d12049-adb7-4dbd-bb90-20744fe934c6">
+2. kiti elementai: <br>
+
+<img height="218" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/b291f00a-0682-4067-830a-3b7c7c0d3d76"> <img height="218" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/1168c9ee-29a2-48ed-b9f2-e283b63f7103">
 
 
-(neužmiršk elementas yra iš abiejų pusių norimo padidinti teksto ir dešinėje turi pasvirajį brukšnį <img width="30" alt="image" src="https://github.com/pievoj/pievoj.github.io/assets/147843027/1e465ae7-2e5b-44de-8f33-6d3121e1fdc8"> )
 
 
 
