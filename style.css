@@ -50,7 +50,7 @@ a {
 
 .textcontainer {
   position: fixed;
-  margin: 10vw;
+  margin: 5vw;
   top: 0;
   left: 0;
   right: 0;
@@ -59,7 +59,7 @@ a {
   z-index: 3;
   border-radius: 20px;
   display: none;
-  padding: 40px;
+  padding: 20px;
   overflow-y: scroll;
   text-align: justify;
 }
@@ -236,7 +236,7 @@ a {
   
   .textcontainer {
     position: fixed;
-    margin: 20px;
+    margin: 10px;
     z-index: 3;
     border-radius: 20px;
     display: none;
