@@ -12,6 +12,17 @@ html {
   overflow: hidden;
 }
 
+img {
+opacity: 1;
+animation: appear 1s ;
+}
+
+@keyframes appear {
+  from {opacity: 0;}
+  to {opacity: 1;}
+  
+}
+
 body {
   position: relative;
   height: 100vh;
@@ -35,7 +46,52 @@ a {
   color: white;
 }
 
+/*  for phone */
 
+.textcontainer {
+  position: fixed;
+  margin: 10vw;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  height: 70vh;
+  z-index: 3;
+  border-radius: 20px;
+  display: none;
+  padding: 40px;
+  overflow-y: scroll;
+  text-align: justify;
+}
+
+.textcontainer::-webkit-scrollbar {
+  display: none;
+}
+
+.sheeptext {
+  background-color: #656537;
+}
+.ducktext {
+  background-color: #b4a572;
+}
+.cowtext {
+  background-color: #CBA865;
+}
+.dragontext {
+  background-color: #A1B4AB;
+}
+.tabletext {
+  background-color: #7D715A; 
+}
+.kojatext {
+  background-color: #7A8BB2;
+}
+.tauretext {
+  background-color: #99759A;
+}
+.gyvatetext {
+  background-color: #738067;
+}
 .sheep1 {
   position: absolute;
   height: 70px;
@@ -50,25 +106,6 @@ a {
   z-index: 4;
 }
 
-.text1 {
-  position: fixed;
-  margin: 0px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 100vh;
-  background-color: #656537;
-  z-index: 2;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
-
-.text1::-webkit-scrollbar {
-  display: none;
-}
 
 .duck1 {
   position: absolute;
@@ -83,28 +120,6 @@ a {
 .duck1.z-index-4 {
   z-index: 4;
 }
-
-.text2 {
-  position: fixed;
-  margin: 10px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 20px;
-  height: 70vh;
-  background-color: #b4a572;
-  z-index: 3;
-  border-radius: 20px;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
-
-.text2::-webkit-scrollbar {
-  display: none;
-}
-
 
 
 .cow1 {
@@ -121,26 +136,6 @@ a {
   z-index: 4;
 }
 
-.text3 {
-  position: fixed;
-  margin: 10px;
-  top: 0;
-  left: 0;
-  right: 0; 
-  bottom: 20px;
-  height: 70vh;
-  background-color: #CBA865;
-  z-index: 3;
-  border-radius: 20px;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
-
-.text3::-webkit-scrollbar {
-  display: none;
-}
 
 .dragon {
   position: absolute;
@@ -161,25 +156,7 @@ a {
   to {left: -100vw;}
 }
 
-.text4 {
-  position: fixed;
-  margin: 0px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 100vh;
-  background-color: #A1B4AB;
-  z-index: 2;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
 
-.text4::-webkit-scrollbar {
-  display: none;
-}
 
 .table {
   position: absolute;
@@ -194,25 +171,8 @@ a {
   z-index: 4;
 }
 
-.text5 {
-  position: fixed;
-  margin: 0px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 100vh;
-  background-color: #7D715A;
-  z-index: 2;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
 
-.text5::-webkit-scrollbar {
-  display: none;
-}
+
 
 .koja {
   position: absolute;
@@ -227,25 +187,6 @@ a {
   z-index: 4;
 }
 
-.text6 {
-  position: fixed;
-  margin: 0px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 100vh;
-  background-color: #7A8BB2;
-  z-index: 2;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
-
-.text6::-webkit-scrollbar {
-  display: none;
-}
 
 .taure{
   position: absolute;
@@ -260,25 +201,6 @@ a {
   z-index: 4;
 }
 
-.text7 {
-  position: fixed;
-  margin: 0px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 100vh;
-  background-color: #99759A;
-  z-index: 2;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
-
-.text7::-webkit-scrollbar {
-  display: none;
-}
 
 .gyvate {
   position: absolute;
@@ -293,25 +215,7 @@ a {
   z-index: 4;
 }
 
-.text8 {
-  position: fixed;
-  margin: 0px;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 100vh;
-  background-color: #738067;
-  z-index: 2;
-  display: none;
-  padding: 40px;
-  overflow-y: scroll;
-  text-align: justify;
-}
 
-.text8::-webkit-scrollbar {
-  display: none;
-}
 
 /* for pc */
 @media only screen and (min-width: 900px) {
@@ -330,68 +234,49 @@ a {
    margin: 0;
   }
   
-  
-    .text1 {
+  .textcontainer {
     position: fixed;
-    margin: 10px;
+    margin: 20px;
+    z-index: 3;
+    border-radius: 20px;
+    display: none;
+    padding: 40px;
+    overflow-y: scroll;
+    text-align: justify;
+  }
+  
+  
+    .sheeptext {
     top: 10vh;
     left: 15vw;
     height: 400px;
     width: 300px;
     background-color: #656537;
-    z-index: 2;
-    border-radius: 20px;
-    display: none;
-    padding: 40px;
-    overflow-y: scroll;
-    text-align: justify;
+ 
   }
   
-   .text2 {
-    position: relative;
+   .ducktext {
     left: 50vw;
     top: 10vh;
-    margin: 20px;
     height: 500px;
     width: 400px;
     background-color: #b4a572;
-    z-index: 3;
-    border-radius: 20px;
-    display: none;
-    padding: 40px;
-    overflow-y: scroll;
-    text-align: justify;
+    
   }
-  .text3 {
-    position: fixed;
-    margin: 20px;
+  .cowtext {
     top: 10vh;
     right: 100px;
     height: 500px;
     width: 400px;
     background-color: #CBA865;
-    z-index: 3;
-    border-radius: 20px;
-    display: none;
-    padding: 40px;
-    overflow-y: scroll;
-    text-align: justify;
   }
   
-  .text4 {
-    position: fixed;
-    margin: 20px;
+  .dragontext {
     top: 10vh;
     left: 20vw;
     height: 500px;
     width: 400px;
     background-color: #A1B4AB;
-    z-index: 3;
-    border-radius: 20px;
-    display: none;
-    padding: 40px;
-    overflow-y: scroll;
-    text-align: justify;
   }
   
   .dragon {
