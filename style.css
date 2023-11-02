@@ -278,6 +278,12 @@ a {
     width: 400px;
     background-color: #A1B4AB;
   }
+
+   .tabletext {
+    top: 10vh;
+    left: 30vw;
+    height: 500px;
+    width: 400px;
   
   .dragon {
   position: absolute;
