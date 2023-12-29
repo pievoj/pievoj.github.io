@@ -10,6 +10,7 @@ const elements = [
   { element: document.querySelector('.koja'), url: 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/6', textContainerId: 'text-container-6' },
   { element: document.querySelector('.taure'), url: 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/7', textContainerId: 'text-container-7' },
   { element: document.querySelector('.gyvate'), url: 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/8', textContainerId: 'text-container-8' },
+  { element: document.querySelector('.avis2'), url: 'https://raw.githubusercontent.com/pievoj/pievoj.github.io/main/9', textContainerId: 'text-container-9' },
 ];
 
 // Function to check if a GitHub URL exists and is not empty
