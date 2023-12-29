@@ -92,6 +92,11 @@ a {
 .gyvatetext {
   background-color: #738067;
 }
+
+.avis2text {
+   background-color: #B6B670;
+}
+
 .sheep1 {
   position: absolute;
   height: 70px;
@@ -127,7 +132,7 @@ a {
   height: 90px;
   width: 110px;
   bottom: 10vh;
-  left: 40vw;
+  left: 30vw;
   cursor: pointer;
   z-index: 1;
 }
@@ -162,7 +167,7 @@ a {
   position: absolute;
   height: 100px;
   bottom: 10vh;
-  right: 66vw;
+  right: 30vw;
   cursor: pointer;
   z-index: 1;
 }
@@ -205,8 +210,8 @@ a {
 .gyvate {
   position: absolute;
   height: 50px;
-  bottom: 10vh;
-  left: 15vw;
+  bottom: 5vh;
+  left: 45vw;
   cursor: pointer;
   z-index: 1;
 }
@@ -215,7 +220,18 @@ a {
   z-index: 4;
 }
 
+.avis2 {
+  position: absolute;
+  height: 100px;
+  bottom: 15vh;
+  left: 13vw;
+  cursor: pointer;
+  z-index: 1;  
+}
 
+.avis2.z-index-4 {
+  z-index: 4;
+}
 
 /* for pc */
 @media only screen and (min-width: 900px) {
@@ -234,6 +250,8 @@ a {
    margin: 0;
   }
   
+ 
+  
   .textcontainer {
     position: fixed;
     margin: 10px;
@@ -243,14 +261,23 @@ a {
     padding: 40px;
     overflow-y: scroll;
     text-align: justify;
+     height: 400px;
+    width: 300px;
+    
   }
   
+     .tabletext {
+    top: 10vh;
+    left: 30vw;
+    height: 500px;
+    width: 400px;
+  
+    
+  }
   
     .sheeptext {
     top: 10vh;
     left: 15vw;
-    height: 400px;
-    width: 300px;
     background-color: #656537;
  
   }
@@ -258,32 +285,21 @@ a {
    .ducktext {
     left: 50vw;
     top: 10vh;
-    height: 500px;
-    width: 400px;
     background-color: #b4a572;
     
   }
   .cowtext {
     top: 10vh;
-    right: 100px;
-    height: 500px;
-    width: 400px;
+    left: 30%;
     background-color: #CBA865;
   }
   
   .dragontext {
     top: 10vh;
     left: 20vw;
-    height: 500px;
-    width: 400px;
+   
     background-color: #A1B4AB;
   }
-
-   .tabletext {
-    top: 10vh;
-    left: 30vw;
-    height: 500px;
-    width: 400px;
   
   .dragon {
   position: absolute;
@@ -294,6 +310,27 @@ a {
   z-index: 1; 
   animation: dragon 20s infinite linear;
 }
+  
+  .tauretext {
+    top: 200px;
+    left: 300px;
+  }
+  
+  .kojatext {
+    top: 50px;
+    left: 50%;
+  }
+  
+  .avis2text {
+    top: 100px;
+    left: 70%;
+  }
+  
+  .gyvatetext {
+    top: 200px;
+    left: 70vw;
+  }
+
 
 @keyframes dragon {
   from {left: 100vw;}
